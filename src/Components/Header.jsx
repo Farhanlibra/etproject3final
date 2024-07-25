@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div>
          <div> 
-        <div className="bg-[url('hero.jpg')]  lg:h-[600px]  h-[400px] w-full bg-cover ">
+        <div className="bg-[url('public/hero.jpg')]  lg:h-[600px]  h-[400px] w-full bg-cover ">
         <div className='container   text-white text-[10px]  py-8 sm:w-[400px] lg:w-full'>
           <Link className='text-[24px] mr-[680px] ml-9 font-bold' to='/home'>FARAME</Link>
           <Link className='text-[18px] mr-5' to='/'>HOME</Link>
