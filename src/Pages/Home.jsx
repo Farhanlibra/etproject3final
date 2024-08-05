@@ -12,7 +12,7 @@ import Contact from '../Components/Contact'
 
 const Home = () => {
   return (
-    <div>
+    <div className='max-h-screen' >
        
        <Intro/>
        <Feature/>
