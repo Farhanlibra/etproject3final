@@ -12,8 +12,8 @@ import Contact from '../Components/Contact'
 
 const Home = () => {
   return (
-    <div className='max-h-screen' >
-       
+    <div >
+       <body className='max-w-screen-2xl'>
        <Intro/>
        <Feature/>
        <Price/>
@@ -21,6 +21,8 @@ const Home = () => {
        <Try/>
        <Join/>
        <Contact/>
+       
+       </body>
        
     </div>
   )
