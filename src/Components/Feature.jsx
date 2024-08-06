@@ -24,7 +24,7 @@ const Feature = () => {
         </div>
         </div>
         <div className='grid sm:grid-cols-1 lg:grid-cols-2 mx-auto'>
-        <div className=' w-[600px] sm:max-w-full order-3 lg:order-4' >
+        <div className=' w-[600px]  order-3 lg:order-4' >
             <img className='sm:w-[400px] sm:mt-6 lg:w-[600px]' src='f2.jpg'/>
         </div>
         <div className=' w-[400px] ml-10  sm:max-w-full order-4 lg:order-3'>
@@ -40,10 +40,10 @@ const Feature = () => {
         </div>
         </div>
         <div className='grid sm:grid-cols-1 lg:grid-cols-2 mx-auto'>
-        <div className=' w-[600px] sm:max-w-full order-5 lg:order-5'>
+        <div className=' w-[600px]  order-5 lg:order-5'>
             <img className=' sm:w-[400px] sm:mt-6 lg:w-[600px] ' src='f3.jpg'/>
         </div>
-        <div className=' w-[400px] ml-10 sm:max-w-full order-6 lg:order-6 '>
+        <div className=' w-[400px] ml-10  order-6 lg:order-6 '>
         <h1 className='text-blue-950 font-bold text-[28px] mb-4 sm:ml-2 lg:ml-16'> Big Benefits for Small Business</h1>
             <p className='sm:ml-2 lg:ml-16 leading-6'>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
             <ul className='mt-8 sm:ml-2 lg:ml-20 mb-20 list-disc '>
