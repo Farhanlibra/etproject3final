@@ -25,7 +25,7 @@ const Feature = () => {
         </div>
         <div className='grid sm:grid-cols-1 lg:grid-cols-2 mx-auto'>
         <div className=' w-[600px] sm:max-w-full order-3 lg:order-4' >
-            <img className='max-w-full' src='f2.jpg'/>
+            <img className='lg:w-[600px]' src='f2.jpg'/>
         </div>
         <div className=' w-[400px] ml-10  sm:max-w-full order-4 lg:order-3'>
         <h1 className='text-blue-950 font-bold text-[28px] mb-4 sm:ml-6 :lg:ml-16'> Big Benefits for Small Business</h1>
