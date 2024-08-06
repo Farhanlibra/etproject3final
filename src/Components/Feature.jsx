@@ -8,7 +8,7 @@ const Feature = () => {
         
         <p className='text-center sm:w-[300px] lg:w-[600px]  lg:ml-[400px] sm:ml-2 lg:mb-32 sm:mb-16'>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
         <div className='grid sm:grid-cols-1 lg:grid-cols-2 mx-auto'>
-        <div className='sm:w-[400px] lg:w-[600px] order-1 lg:order-1'  >
+        <div className='sm:w-[360px] lg:w-[600px] order-1 lg:order-1'  >
             <img className=' sm:mt-6 ' src='f1.jpg'/>
         </div>
         <div className=' w-[400px] ml-10 sm:max-w-full order-2 lg:order-2'>
