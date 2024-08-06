@@ -13,7 +13,7 @@ import Contact from '../Components/Contact'
 const Home = () => {
   return (
     <div >
-       <body className='max-w-screen-2xl'>
+       <body className=' sm:max-w-full lg:max-w-screen-2xl'>
        <Intro/>
        <Feature/>
        <Price/>
