@@ -6,7 +6,7 @@ const Header = () => {
     <div className='sm:max-w-screen'>
          <div> 
         <div className="bg-[url('/public/hero.jpg')]  lg:h-[600px]  h-[400px] w-full bg-cover ">
-        <div className='container   text-white text-[10px]  py-8 sm:w-[400px] lg:w-full'>
+        <div className='sm:max-w-screen-sm   text-white text-[10px]  py-8 sm:w-[400px] lg:w-full'>
           <Link className='text-[24px] mr-[680px] ml-9 font-bold' to='/home'>FARAME</Link>
           <Link className='text-[18px] mr-5' to='/'>HOME</Link>
           <Link className='text-[18px] mr-5' to='/feature'>FEATURE</Link>
