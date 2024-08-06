@@ -6,7 +6,7 @@ const Feature = () => {
 
         <h1 className='text-center font-[500px] text-[34px] sm:pt-10 lg:pt-32 lg:pb-10 sm:pb-2'>Features</h1>
         <hr className='sm:ml-0 lg:ml-[400px] text-blue-950 w-[100px] pl-[600px] mb-10'></hr>
-        <p className='text-center sm:w-[300px] lg:w-[600px] lg:ml-[400px] sm:ml-2 lg:mb-32 sm:mb-16'>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+        <p className='text-center sm:w-[300px] lg:w-[600px] sm:w-[50px] lg:ml-[400px] sm:ml-2 lg:mb-32 sm:mb-16'>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
         <div className='grid sm:grid-cols-1 lg:grid-cols-2 mx-auto'>
         <div className='sm:w-[400px] lg:w-[600px] order-1 lg:order-1'  >
             <img className='sm:w-[400px] sm:mt-6 lg:w-[600px]' src='f1.jpg'/>
@@ -25,7 +25,7 @@ const Feature = () => {
         </div>
         <div className='grid sm:grid-cols-1 lg:grid-cols-2 mx-auto'>
         <div className=' w-[600px] sm:max-w-full order-3 lg:order-4' >
-            <img className='lg:w-[600px]' src='f2.jpg'/>
+            <img className='lg:w-[600px] sm:w-[400px]' src='f2.jpg'/>
         </div>
         <div className=' w-[400px] ml-10  sm:max-w-full order-4 lg:order-3'>
         <h1 className='text-blue-950 font-bold text-[28px] mb-4 sm:ml-6 :lg:ml-16'> Big Benefits for Small Business</h1>
@@ -41,7 +41,7 @@ const Feature = () => {
         </div>
         <div className='grid sm:grid-cols-1 lg:grid-cols-2 mx-auto'>
         <div className=' w-[600px] sm:max-w-full order-5 lg:order-5'>
-            <img className='w-[600px]' src='f3.jpg'/>
+            <img className='lg:w-[600px] sm:w-[400px]' src='f3.jpg'/>
         </div>
         <div className=' w-[400px] ml-10 sm:max-w-full order-6 lg:order-6 '>
         <h1 className='text-blue-950 font-bold text-[28px] mb-4 sm:ml-2 lg:ml-16'> Big Benefits for Small Business</h1>
