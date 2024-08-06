@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Header = () => {
   return (
-    <div>
+    <div className='sm:max-w-screen-sm'>
          <div> 
         <div className="bg-[url('/public/hero.jpg')]  lg:h-[600px]  h-[400px] w-full bg-cover ">
         <div className='container   text-white text-[10px]  py-8 sm:w-[400px] lg:w-full'>
