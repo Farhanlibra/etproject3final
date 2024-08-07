@@ -3,7 +3,7 @@ import { Card } from 'antd';
 const { Meta } = Card;
 import { MobileTwoTone } from '@ant-design/icons';
 const IntroCard = () => (
-  <Card className=' sm:w-[300px] lg:w-[350px] lg:h-[400px] mb-4'
+  <Card className=' sm:w-[300px] lg:w-[350px] lg:h-[400px] mb-4 lg:mx-auto'
     hoverable
    
    
