@@ -2,7 +2,7 @@ import React from 'react'
 
 const Feature = () => {
   return (
-    <div className='max-w-screen-2xl  bg-slate-400 h-auto  mt-[30px]   sm:px-5 '>
+    <div className='max-w-screen-2xl  bg-slate-400 h-auto  mt-[30px]  '>
 
         <h1 className='text-center font-[500px] text-[34px] sm:pt-10 lg:pt-32 lg:pb-10 sm:pb-2'>Features</h1>
         
@@ -11,8 +11,8 @@ const Feature = () => {
         <div className=' sm: w-[360px] lg:w-[600px] mx-auto my-3 px-2 order-1 lg:order-1'  >
             <img className=' sm:mt-6 ' src='f1.jpg'/>
         </div>
-        <div className=' w-[400px] lg:ml-10 sm:pl-6 order-2 lg:order-2'>
-            <h1 className='text-blue-950 font-bold lg:text-[28px] mb-4  sm:text-[14px]  lg:ml-16'> Big Benefits for Small Business</h1>
+        <div className=' w-[400px] lg:ml-10 order-2 lg:order-2'>
+            <h1 className='text-blue-950 font-bold lg:text-[28px] mb-4  sm:text-[14px] sm:ml-20  lg:ml-16'> Big Benefits for Small Business</h1>
             <p className='lg:ml-16  sm:mt-4 leading-6'>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
             <ul className='mt-8 ml-20 mb-20 list-disc '>
               <li className='leading-10'>
