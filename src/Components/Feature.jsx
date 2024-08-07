@@ -2,7 +2,7 @@ import React from 'react'
 
 const Feature = () => {
   return (
-    <div className='max-w-screen-2xl  bg-slate-400 h-auto  mt-[30px] ml-0 sm:ml-4 sm:px-5 '>
+    <div className='max-w-screen-2xl  bg-slate-400 h-auto  mt-[30px]  sm:ml-4 sm:px-5 '>
 
         <h1 className='text-center font-[500px] text-[34px] sm:pt-10 lg:pt-32 lg:pb-10 sm:pb-2'>Features</h1>
         
