@@ -11,7 +11,7 @@ const Feature = () => {
         <div className=' sm: w-[360px] lg:w-[600px] mx-auto my-3 px-2 order-1 lg:order-1'  >
             <img className=' sm:mt-6 ' src='f1.jpg'/>
         </div>
-        <div className=' w-[400px] lg:ml-10 sm:ml-1 order-2 lg:order-2'>
+        <div className=' w-[400px] lg:ml-10 sm:ml-6 order-2 lg:order-2'>
             <h1 className='text-blue-950 font-bold lg:text-[28px] mb-4  sm:text-[14px] lg:ml-16'> Big Benefits for Small Business</h1>
             <p className='lg:ml-16 sm:ml-3 sm:mt-4 leading-6'>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
             <ul className='mt-8 ml-20 mb-20 list-disc '>
@@ -27,7 +27,7 @@ const Feature = () => {
         <div className='  sm: w-[360px] lg:w-[600px] mx-auto my-2 px-2 order-3 lg:order-4' >
             <img className='sm:mt-6 ' src='f2.jpg'/>
         </div>
-        <div className=' w-[400px] lg:ml-16  sm:ml-0 order-4 lg:order-3'>
+        <div className=' w-[400px] lg:ml-16  sm:ml-6 order-4 lg:order-3'>
         <h1 className='text-blue-950 font-bold lg:text-[28px] mb-4  sm:text-[14px] lg:ml-16 sm:ml-1'> Big Benefits for Small Business</h1>
             <p className='lg:ml-16 sm:ml-6 leading-6'>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
             <ul className='mt-8 ml-20 mb-20 list-disc '>
@@ -43,7 +43,7 @@ const Feature = () => {
         <div className=' sm: w-[360px] lg:w-[600px] mx-auto my-2 px-2 order-5 lg:order-5'>
             <img className=' sm:mt-6  ' src='f3.jpg'/>
         </div>
-        <div className=' w-[400px] ml-10 sm:ml-0  order-6 lg:order-6 '>
+        <div className=' w-[400px] ml-10 sm:ml-6  order-6 lg:order-6 '>
         <h1 className='text-blue-950 font-bold lg:text-[28px] mb-4 sm:ml-0 sm:text-[14px] lg:ml-16'> Big Benefits for Small Business</h1>
             <p className='sm:ml-2 lg:ml-16 leading-6'>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
             <ul className='mt-8 sm:ml-2 lg:ml-20 mb-20 list-disc '>
